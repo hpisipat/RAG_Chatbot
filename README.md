@@ -1,6 +1,4 @@
 
-Not: I have used my own OPENAI_API_KEY as my credits were low in vocareum. Hence while submission I have removed the key in .env file
-
 Domain explanation -
   
   The domain is about Fortify software installation requirements. Fortify is a tool used to identify different types of security violations in code. Inorder to scan the code we need to first setup the software.
